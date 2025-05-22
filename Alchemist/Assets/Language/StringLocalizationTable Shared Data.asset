@@ -1,0 +1,132 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: StringLocalizationTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: StringLocalizationTable
+  m_TableCollectionNameGuidString: e76fe0a75abcd5d41b27e89aed5378c6
+  m_Entries:
+  - m_Id: 455041839104
+    m_Key: DrawCardButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2783887192064
+    m_Key: SettingB
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2987659063296
+    m_Key: turnTimerText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3155498332160
+    m_Key: PauseText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3275321208832
+    m_Key: ReturnMenuB
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3430044889088
+    m_Key: CancelB
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4592571740160
+    m_Key: SapphireB
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4656291606528
+    m_Key: EmeraldB
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4725174661120
+    m_Key: RubyB
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5391565680640
+    m_Key: turnNotificationText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5648491966464
+    m_Key: MenuText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5719728025600
+    m_Key: GameStartB
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5794554408960
+    m_Key: QuitB
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6126747480064
+    m_Key: CloseTutorial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6364241555456
+    m_Key: TutorialText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7085934473216
+    m_Key: Emerald
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7281418399744
+    m_Key: Ruby
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7559219736576
+    m_Key: Amethyst
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7739809689600
+    m_Key: Sapphire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 214491947823104
+    m_Key: NewGameB
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229012544385024
+    m_Key: TurkishB
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229064608280576
+    m_Key: EnglishB
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229361225265152
+    m_Key: LanguageT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 572929571778560
+    m_Key: QuitMenuT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 573041064767488
+    m_Key: YesB
+    m_Metadata:
+      m_Items: []
+  - m_Id: 573086166118400
+    m_Key: NoB
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 6358136467312345113
+  references:
+    version: 2
+    RefIds:
+    - rid: 6358136467312345113
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1747775837492

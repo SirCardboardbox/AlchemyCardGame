@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: StringLocalizationTable_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: e76fe0a75abcd5d41b27e89aed5378c6, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 455041839104
+    m_Localized: Take Jewel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2783887192064
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2987659063296
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3155498332160
+    m_Localized: Paused
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3275321208832
+    m_Localized: Return To Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3430044889088
+    m_Localized: Cancel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4592571740160
+    m_Localized: Sapphire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4656291606528
+    m_Localized: Emerald
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4725174661120
+    m_Localized: Ruby
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5648491966464
+    m_Localized: Alchemist
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5719728025600
+    m_Localized: Find Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5794554408960
+    m_Localized: Quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6126747480064
+    m_Localized: Close
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6364241555456
+    m_Localized: <color=black>A player can only draw jewels or use the jewels in
+      their hands in a turn. First player to collect four different jewels in their
+      hand wins.</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7085934473216
+    m_Localized: <color=#50C878>Emerald:</color> <color=black>draw a random jewel
+      to your hand.</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7281418399744
+    m_Localized: <color=#E0115F>Ruby:</color> <color=black>destroy opponents random
+      jewel.</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7559219736576
+    m_Localized: <color=#9966cc>Amethyst:</color> <color=black>draw a jewel of your
+      choice.</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7739809689600
+    m_Localized: <color=#0F52BA>Sapphire:</color> <color=black>draw a random jewel
+      to oppenents hand.</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 214491947823104
+    m_Localized: New Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229012544385024
+    m_Localized: Turkish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229064608280576
+    m_Localized: English
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229361225265152
+    m_Localized: 'Language:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 572929571778560
+    m_Localized: Return to Menu?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 573041064767488
+    m_Localized: Yes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 573086166118400
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

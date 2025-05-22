@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: StringLocalizationTable_tr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: tr
+  m_SharedData: {fileID: 11400000, guid: e76fe0a75abcd5d41b27e89aed5378c6, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 455041839104
+    m_Localized: Cevher Al
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2783887192064
+    m_Localized: Ayarlar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2987659063296
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3155498332160
+    m_Localized: Durduruldu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3275321208832
+    m_Localized: "Men\xFC'ye Geri D\xF6n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3430044889088
+    m_Localized: Kapat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4592571740160
+    m_Localized: Safir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4656291606528
+    m_Localized: "Z\xFCmr\xFCt"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4725174661120
+    m_Localized: Yakut
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5648491966464
+    m_Localized: "Simyac\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5719728025600
+    m_Localized: Oyun Bul
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5794554408960
+    m_Localized: "\xC7\u0131k"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6126747480064
+    m_Localized: Kapat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6364241555456
+    m_Localized: "<color=black>Bir oyuncu bir turda sadece cevher \xE7ekebilir veya
+      elindeki cevherleri kullanabilir. Elinde d\xF6rt farkl\u0131 cevher toplayan
+      ilk oyuncu kazan\u0131r.</color>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7085934473216
+    m_Localized: "<color=#50C878>Z\xFCmr\xFCt:</color> <color=black>eline rastgele
+      bir cevher \xE7ek.</color>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7281418399744
+    m_Localized: <color=#E0115F>Yakut:</color> <color=black>rakibin rastgele bir
+      cevherini yok et.</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7559219736576
+    m_Localized: "<color=#9966cc>Ametist:</color> <color=black>\u0130stedi\u011Fin
+      bir cevheri \xE7ek.</color>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7739809689600
+    m_Localized: "\r<color=#0F52BA>Safir:</color> <color=black>Rakibin eline rastgele
+      bir cevher \xE7ek.</color>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 214491947823104
+    m_Localized: Yeni Oyun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229012544385024
+    m_Localized: "T\xFCrk\xE7e"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229064608280576
+    m_Localized: "\u0130ngilizce"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229361225265152
+    m_Localized: 'Dil:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 572929571778560
+    m_Localized: "Men\xFC'ye Geri D\xF6n?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 573041064767488
+    m_Localized: Evet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 573086166118400
+    m_Localized: "Hay\u0131r"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
