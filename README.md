@@ -48,7 +48,9 @@ To run the project:
 
 2. Open the project in Unity (Unity 2022.x or later recommended).
 
-3. Run the game from the `MainMenu` scene.
+3. Install necessary dependencies (Localization, Advertisement).
+
+4. Run the game from the `MainMenu` scene.
 
 ## 🔁 Game Flow
 
